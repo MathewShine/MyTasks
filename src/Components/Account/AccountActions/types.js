@@ -1,0 +1,6 @@
+const TYPES = {
+       
+   LOGIN_STATUS    :'LOGIN_STATUS',
+   TOGGLE_BUTTON_SIGNUP_SIGNIN: 'TOGGLE_BUTTON_SIGNUP_SIGNIN'
+}
+export default TYPES;
